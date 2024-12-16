@@ -41,12 +41,12 @@
 
 @font-face {
     font-family: "eina2";
-    src: url(Fonts/Eina-bold2.otf);
+    src: url(.Fonts/Fonts/Eina-bold2.otf);
 }
 
 @font-face {
     font-family: "eina";
-    src: url(Fonts/Eina.otf);
+    src: url(.Fonts/Fonts/Eina.otf);
 }
 html{
     scroll-behavior: smooth;
@@ -237,7 +237,7 @@ span {
     padding: 25px;
 }
 .a-link {
-    color: #4900f1;
+    color: #4c00ff;
     font-family: "eina2";
     cursor: pointer;
     transition: 0.5s;
@@ -541,7 +541,7 @@ span {
 }
 
 .parcours-title{
-    color: #BDA0FF;
+    color: #4c00ff;
     font-family: 'eina2';
     font-size: 32px;
     text-align: center;
